@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\работа\bst\bst\bst.h(128): warning C4715: drop_BST: значение возвращается не при всех путях выполнения
+d:\работа\bst\bst\bst.h(152): warning C4715: search_BST: значение возвращается не при всех путях выполнения
+  BST.vcxproj -> D:\РАБОТА\BST\Debug\BST.exe
+  BST.vcxproj -> D:\РАБОТА\BST\Debug\BST.pdb (Partial PDB)
